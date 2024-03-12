@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mid Project"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: overview.qmd
+        text: Project Overview
+      - href: og graph.qmd
+        text: Original Visualization
+      - href: redesign.qmd
+        text: Redesigned Visualization
+    right:
+      - href: ref.qmd
+        text: References
+      - href: code.qmd
+        text: Code
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+
+editor: visual
+

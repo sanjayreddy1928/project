@@ -1,0 +1,32 @@
+{
+    "id": "43D4E17E",
+    "path": "~/Desktop/project/redesign.qmd",
+    "project_path": "redesign.qmd",
+    "type": "quarto_markdown",
+    "hash": "3314601876",
+    "contents": "",
+    "dirty": false,
+    "created": 1710215575169.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "36,0",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "3343:1837.5"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1710215688,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1710215688135,
+    "read_only": false,
+    "read_only_alternatives": []
+}

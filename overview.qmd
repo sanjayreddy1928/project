@@ -1,0 +1,12 @@
+---
+title: "Overview"
+format: html
+---
+
+The motivation for undertaking this project is based on the recognition that although the initial representation of data offers a fundamental understanding of its arrangement and potential consequences, there frequently exists a wide array of alternative viewpoints and stories that can be revealed through imaginative and contemplative reconfiguration.
+
+In the process of redesigning the chosen visualization, this project will critically evaluate the effectiveness of different design choices in conveying the intended message.
+
+Moreover, the project will explore the role of context in visualization design, considering how the intended audience and the medium of presentation can impact design decisions.
+
+---

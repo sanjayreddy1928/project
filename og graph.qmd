@@ -1,0 +1,17 @@
+---
+title: "Original Graph"
+---
+
+![](images/clipboard-1333314626.png)
+
+The graph titled "TOP HOME WEIGHTED BATTING AVERAGES" displays a number of cricket players with circles indicating their runs scored at home. The size of each circle corresponds to the number of runs scored, and the x-axis represents the weighted batting average at home. The graph is designed to compare players' performances.
+
+Here are some potential issues with the graph:
+
+1.  **Circle Size Representation**: It’s unclear whether the circle sizes are to scale with the runs scored. Without a key or scale for circle size, it’s difficult to interpret the exact differences in runs.
+
+2.  **Axis Labeling and Scaling**: The x-axis labels for the weighted batting averages could be more descriptive. Additionally, the x-axis does not start at zero, which might be by design to focus on the range of interest, but could potentially mislead by exaggerating differences.
+
+3.  **Data Point Clarity**: If the circles represent runs scored, then having them mapped to the batting averages might confuse viewers into thinking the average is related to the circle's area.
+
+4.  **Legend or Guide**: There is no legend explaining the size of the circles, leaving the viewer to guess what different sizes represent.

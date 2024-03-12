@@ -1,0 +1,7 @@
+---
+title: "Mid Project"
+---
+
+![](images/clipboard-1687433654.png)
+
+Hey, I am Sanjay Reddy Marri and I am pursuing Master's in Data Analytics Engineering at George Mason University. This website is regarding my STAT-515 Mid Project.

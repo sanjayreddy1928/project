@@ -1,0 +1,20 @@
+{
+  "overview.qmd": {
+    "overview.html": "800a5e90"
+  },
+  "og graph.qmd": {
+    "og graph.html": "9cd0d62d"
+  },
+  "code.qmd": {
+    "code.html": "65b0eb99"
+  },
+  "index.qmd": {
+    "index.html": "7786d7f6"
+  },
+  "redesign.qmd": {
+    "redesign.html": "aa554b2c"
+  },
+  "ref.qmd": {
+    "ref.html": "a59ba612"
+  }
+}
